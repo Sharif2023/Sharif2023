@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://fb.com/sharif.me2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharif.me2018" height="30" width="40" /></a>
 <a href="https://instagram.com/sharif_islam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharif_islam10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@SHARIFsCODECORNER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sharif_code_corner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SHARIFsCODECORNER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sharif_code_corner" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharif2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sharif2022" height="30" width="40" /></a>
 </p>
 
