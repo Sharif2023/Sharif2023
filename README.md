@@ -41,3 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharif2023&show_icons=true&locale=en" alt="sharif2023" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif2023&" alt="sharif2023" /></p>
+
+![Snake animation](https://raw.githubusercontent.com/Sharif2023/Sharif2023/output/github-contribution-grid-snake-dark.svg)
