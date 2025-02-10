@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharif2023&show_icons=true&locale=en" alt="sharif2023" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharif2023&" alt="sharif2023" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/c24b86c234ef154ad8b0a621713ffda5e56e2b1190171a2b6ef2139621e71c14/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313639303033343935363534362f31303163313639342d376538372d343538652d616664352d6162363563343863343638652e676966" width="790" /></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
