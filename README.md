@@ -1,5 +1,3 @@
-![logo](https://github.com/Sharif2023/Sharif2023/blob/main/my_github_background_logo.png)
-
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">بِسْــــــــــــــــــمِ اﷲِالرَّحْمَنِ اارَّحِيم</h3>
