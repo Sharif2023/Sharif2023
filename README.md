@@ -14,8 +14,6 @@
 
 - 🤝 I’m looking for help with [CamSociety](https://github.com/Sharif2023/CamSociety_Laraval)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sharif2023](https://github.com/Sharif2023)
-
 - 📝 I regularly write articles on [https://dev-sharif-code-corner.pantheonsite.io/](https://dev-sharif-code-corner.pantheonsite.io/)
 
 - 💬 Ask me about **React, Angular, MongoDB, Tailwind, Laravel**
