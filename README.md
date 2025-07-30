@@ -22,6 +22,11 @@
 
 - ⚡ Fun fact **I am All in One 😉**
 
+## Skills
+| Frontend       | Backend       | Database     | Others         |
+|----------------|--------------|-------------|----------------|
+| HTML, CSS, Tailwind, Bootstrap, React | PHP, Node.js, Laravel | MySQL, MongoDB | Git, GitHub |
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sharif.me2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharif.me2018" height="30" width="40" /></a>
