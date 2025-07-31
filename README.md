@@ -6,21 +6,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" /> </p>
 
-- 🔭 I’m currently working on [Amar Recipe](https://github.com/Sharif2023/Amar_Recipies_ReactJS.git)
+- I’m currently working on [Amar Recipe](https://github.com/Sharif2023/Amar_Recipies_ReactJS.git)
 
-- 🌱 I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript,Nodejs, Laravel, MongoDB**
+- I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript,Nodejs, Laravel, MongoDB**
 
-- 👯 I’m looking to collaborate on [UIU Health Care](https://github.com/Sharif2023/UIU-Health-Care.git)
+- I’m looking to collaborate on [UIU Health Care](https://github.com/Sharif2023/UIU-Health-Care.git)
 
-- 🤝 I’m looking for help with [CamSociety](https://github.com/Sharif2023/CamSociety_Laraval)
+- I’m looking for help with [CamSociety](https://github.com/Sharif2023/CamSociety_Laraval)
 
-- 📝 I regularly write articles on [https://dev-sharif-code-corner.pantheonsite.io/](https://dev-sharif-code-corner.pantheonsite.io/)
+- I regularly write articles on [https://dev-sharif-code-corner.pantheonsite.io/](https://dev-sharif-code-corner.pantheonsite.io/)
 
-- 💬 Ask me about **React, Angular, MongoDB, Tailwind, Laravel**
+- Ask me about **React, Angular, MongoDB, Tailwind, Laravel**
 
-- 📫 How to reach me **https://www.facebook.com/sharif.me2018**
+- How to reach me **https://www.facebook.com/sharif.me2018**
 
-- ⚡ Fun fact **I am All in One 😉**
+- Fun fact **I am All in One 😉**
 
 ## Skills
 | Frontend       | Backend       | Database     | Others         |
