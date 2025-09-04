@@ -10,7 +10,7 @@
 
 - I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript,Nodejs, Laravel, MongoDB**
 
-- I’m looking to collaborate on [UIU Health Care](https://github.com/Sharif2023/UIU-Health-Care.git)
+- I’m looking to collaborate on [Study Nest](https://github.com/Sharif2023/StudyNest.git)
 
 - I regularly write articles on [https://dev-sharif-code-corner.pantheonsite.io/](https://dev-sharif-code-corner.pantheonsite.io/)
 
