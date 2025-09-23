@@ -23,7 +23,7 @@
 ## Skills
 | Frontend       | Backend       | Database     | Others         |
 |----------------|--------------|-------------|----------------|
-| HTML, CSS, Tailwind, Bootstrap, React | PHP, Node.js, Laravel | MySQL, MongoDB | Git, GitHub |
+| **HTML, CSS, Tailwind, Bootstrap, React**| **PHP, Node.js, Laravel** | **MySQL, MongoDB** | **Git, GitHub** |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
