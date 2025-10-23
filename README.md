@@ -8,7 +8,7 @@
 
 - I’m currently done with [StudyNest](https://github.com/Sharif2023/StudyNest.git)
 
-- I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript,Nodejs, Laravel, MongoDB**
+- I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript, Nodejs, Laravel, MongoDB**
 
 - I’m looking to collaborate on [Study Nest](https://github.com/Sharif2023/StudyNest.git)
 
