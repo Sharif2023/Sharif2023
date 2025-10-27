@@ -12,7 +12,7 @@
 
 - I’m looking to collaborate on [Study Nest](https://github.com/Sharif2023/StudyNest.git)
 
-- I regularly write articles on [https://dev-sharif-code-corner.pantheonsite.io/](https://dev-sharif-code-corner.pantheonsite.io/)
+- My new personalized website [https://engineer-sharif.infinityfreeapp.com/](https://engineer-sharif.infinityfreeapp.com/)
 
 - Ask me about **React, Angular, MongoDB, Tailwind, Laravel**
 
