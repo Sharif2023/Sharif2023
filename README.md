@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" /> </p>
 
-- I’m currently done with [Smart Health Monitor BD](https://github.com/Sharif2023/StudyNest.git)
+- I’m currently done with [Smart Health Monitor BD](https://github.com/Sharif2023/Smart-Lifestyle-Advisor)
 
 - I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript, Python, Nodejs, Laravel, MongoDB**
 
