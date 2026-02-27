@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Header Banner" width="800" />
+</div>
+
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
 <h3 align="center">Full Stack Web Developer 💻 | CSE Student @ UIU 🎓</h3>
@@ -9,6 +13,8 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Web Developer illustration" />
+
 > **Crafting scalable web applications and exploring the future of Human-Computer Interaction.**
 
 I am a passionate **Full-Stack Web Developer** and a **Computer Science & Engineering student at United International University (UIU)** in Dhaka. I specialize in bridging the gap between elegant user interfaces and robust backend architectures, with a strong focus on the **MERN stack** and **PHP/Laravel** ecosystems.
@@ -17,7 +23,7 @@ Beyond building software, I am deeply involved in academic research, currently i
 
 <br>
 
-<table align="center">
+<table align="left">
   <tr>
     <td width="50%">
       <b>🔭 What I'm building:</b><br>
@@ -50,7 +56,7 @@ Beyond building software, I am deeply involved in academic research, currently i
   </tr>
 </table>
 
-<br>
+<br clear="both">
 
 ---
 
@@ -99,10 +105,13 @@ Beyond building software, I am deeply involved in academic research, currently i
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharif2023&show_icons=true&locale=en&theme=radical" alt="sharif2023 stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharif2023&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharif2023&show_icons=true&theme=radical&v=1" alt="Sharif2023 Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharif2023&show_icons=true&layout=compact&theme=radical&v=1" alt="Top Languages" />
+</p>
 
 <br/>
 
