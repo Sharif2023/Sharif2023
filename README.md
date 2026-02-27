@@ -1,49 +1,126 @@
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
-<h3 align="center">بِسْــــــــــــــــــمِ اﷲِالرَّحْمَنِ اارَّحِيم</h3>
-
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" /> </p>
-
-- I’m currently done with [Smart Health Monitor BD](https://github.com/Sharif2023/Smart-Lifestyle-Advisor)
-
-- I’m currently learning **HTML, CSS, Tailwindcss, Bootstrap, React, MySql, PHP, JavaScript, Python, Nodejs, Laravel, MongoDB**
-
-- I’m looking to collaborate on [Study Nest](https://github.com/Sharif2023/StudyNest.git)
-
-- My new personalized website [https://engineer-sharif.infinityfreeapp.com/](https://engineer-sharif.infinityfreeapp.com/)
-
-- Ask me about **React, Angular, MongoDB, Tailwind, Laravel**
-
-- How to reach me **https://www.facebook.com/sharif.me2018**
-
-- Fun fact **I am All in One 😉**
-
-## Skills
-| Frontend       | Backend       | Database     | Others         |
-|----------------|--------------|-------------|----------------|
-| **HTML, CSS, Tailwind, Bootstrap, React**| **PHP, Node.js, Laravel** | **MySQL, MongoDB** | **Git, GitHub** |
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sharif.me2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharif.me2018" height="30" width="40" /></a>
-<a href="https://instagram.com/sharif_islam10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sharif_islam10" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@SHARIFsCODECORNER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sharif_code_corner" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sharif2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Sharif2022" height="30" width="40" /></a>
+<h3 align="center">Full Stack Web Developer 💻 | CSE Student @ UIU 🎓</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharif2023&show_icons=true&locale=en&layout=compact" alt="sharif2023" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharif2023&show_icons=true&locale=en" alt="sharif2023" /></p>
+> **Crafting scalable web applications and exploring the future of Human-Computer Interaction.**
 
-<p><img align="center" src="https://camo.githubusercontent.com/c24b86c234ef154ad8b0a621713ffda5e56e2b1190171a2b6ef2139621e71c14/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313639303033343935363534362f31303163313639342d376538372d343538652d616664352d6162363563343863343638652e676966" width="790" /></p>
+I am a passionate **Full-Stack Web Developer** and a **Computer Science & Engineering student at United International University (UIU)** in Dhaka. I specialize in bridging the gap between elegant user interfaces and robust backend architectures, with a strong focus on the **MERN stack** and **PHP/Laravel** ecosystems.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+Beyond building software, I am deeply involved in academic research, currently investigating **Green Computing** within frontend frameworks and exploring how Gen AI impacts divergent thinking. Whether I am meticulously designing a database schema, exploring advanced software testing techniques, or obsessing over typography and clean UI design, I am driven by building efficient, user-centric solutions.
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <b>🔭 What I'm building:</b><br>
+      <a href="https://github.com/Sharif2023">Amar Recipe</a> (Full-stack platform) & <a href="https://github.com/Sharif2023/StudyNest.git">StudyNest</a>
+    </td>
+    <td width="50%">
+      <b>🔬 What I'm researching:</b><br>
+      Energy efficiency in Web Frameworks & HCI
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🌱 What I'm learning:</b><br>
+      Advanced System Architecture & Software Testing Concepts
+    </td>
+    <td width="50%">
+      <b>💡 What I'm exploring:</b><br>
+      UI/UX Prototyping in Figma & Ubuntu/Linux Administration
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>💬 Ask me about:</b><br>
+      React, Laravel, Tailwind CSS, Typography, or Turkish Culture!
+    </td>
+    <td width="50%">
+      <b>📫 How to reach me:</b><br>
+      <a href="mailto:sharifislam0505@gmail.com">sharifislam0505@gmail.com</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+### 🚀 Featured Projects
+
+* **Amar Recipe:** A full-stack recipe platform featuring an advanced discovery engine and a community-driven submission pipeline. *(React 19, Tailwind CSS 4, PHP 8.2, MySQL, PostgreSQL)*
+* **StudyNest:** A group study platform for UIU students featuring course resource sharing, real-time video rooms, and an AI file checker. *(React, Tailwind CSS, PHP, Python/Flask, Node.js)*
+* **UIU Supplements:** A real-time marketplace and community hub for UIU students including a part-time job portal and room rental services. *(PHP, MySQL, Vanilla JS, Bootstrap 5)*
+* **UIU Healthcare:** An integrated health portal connecting doctors and students with appointments and an AI symptom bot. *(PHP, MySQL, JavaScript, Bootstrap)*
+
+---
+
+### 🔬 Research Works (In Progress)
+
+* 📊 *Comparative Analysis of Energy Efficiency in Modern Frontend Frameworks: A Green Computing Perspective*
+* 🧠 *Evaluating the Impact of Sketch and Voice Inputs on Divergent Thinking in Gen AI*
+* 💻 *Real-Time Anxiety Detection and Intervention System for Programmers*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend:** <br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+
+**Backend & Database:** <br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+**Tools & Others:** <br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sharif2023&show_icons=true&locale=en&theme=radical" alt="sharif2023 stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharif2023&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" height="150" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://fb.com/sharif.me2018" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/sharif_islam10" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@SHARIFsCODECORNER" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.leetcode.com/sharif2022" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+</p>
