@@ -4,7 +4,7 @@
 
 <h2 align="center">السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</h2>
 <h1 align="center">Hi 👋, I'm Shariful Islam</h1>
-<h3 align="center">Full Stack Web Developer 💻 | CSE Student @ UIU 🎓</h3>
+<h3 align="center">Full Stack Web Developer 💻</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" />
 </p>
@@ -15,57 +15,119 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Web Developer illustration" />
 
-> **Crafting scalable web applications and exploring the future of Human-Computer Interaction.**
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=58A6FF&width=520&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React+%7C+PHP+%7C+Node.js+%7C+Express+%7C+PostgreSQL;%F0%9F%8E%93+Graduated+From+United+International+University;Bridging+elegant+UI+with+robust+backends+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-I am a passionate **Full-Stack Web Developer** and a **Computer Science & Engineering student at United International University (UIU)** in Dhaka. I specialize in bridging the gap between elegant user interfaces and robust backend architectures, with a strong focus on the **MERN stack** and **PHP/Laravel** ecosystems.
-
-Beyond building software, I am deeply involved in academic research, currently investigating **Green Computing** within frontend frameworks and exploring how Gen AI impacts divergent thinking. Whether I am meticulously designing a database schema, exploring advanced software testing techniques, or obsessing over typography and clean UI design, I am driven by building efficient, user-centric solutions.
+I craft modern, responsive web applications from concept to deployment. My expertise spans frontend **frameworks (React, Tailwind CSS)**, **backend systems (PHP, Node.js, Laravel)**, and **database architecture (MySQL, PostgreSQL, MongoDB)**. I also design high-fidelity UI prototypes in Figma to bridge design and development seamlessly.
 
 <br>
 
-<table align="left">
+---
+
+💼 Work Experience
+<table width="100%">
   <tr>
-    <td width="50%">
-      <b>🔭 What I'm building:</b><br>
-      <a href="https://github.com/Sharif2023">Amar Recipe</a> (Full-stack platform) & <a href="https://github.com/Sharif2023/StudyNest.git">StudyNest</a>
+    <td width="72%" valign="top">
+      <b>🏢 Front End Developer</b> &nbsp;·&nbsp; <a href="https://www.fakibajgobeshok.org/"><b>Fakibaj Gobeshok</b></a><br/>
+      <sub><i><a href="https://mangoseed.academy/">MangoSeed Academy</a> — E-Learning Platform &nbsp;|&nbsp; Remote, Part-time &nbsp;|&nbsp; March 2026 – June 2026</i></sub>
+      <ul>
+        <li>Architected <b>75+ modular React components &amp; pages</b> using DRY principles across student &amp; instructor interfaces</li>
+        <li>Integrated <b>85+ REST API endpoints</b> via Swagger with centralized Axios modules, JWT interceptors, and error handling</li>
+        <li>Designed routing for <b>55+ routes</b> with RBAC — securing 19 protected routes across Student &amp; Instructor roles</li>
+        <li>Optimized performance with <code>Promise.all</code> parallel fetching &amp; server-side filtering, eliminating memory crashes</li>
+        <li>Led <b>40+ refactoring commits</b>, consolidating duplicate layouts and removing hundreds of hardcoded legacy lines</li>
+      </ul>
     </td>
-    <td width="50%">
-      <b>🔬 What I'm researching:</b><br>
-      Energy efficiency in Web Frameworks & HCI
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🌱 What I'm learning:</b><br>
-      Advanced System Architecture & Software Testing Concepts
-    </td>
-    <td width="50%">
-      <b>💡 What I'm exploring:</b><br>
-      UI/UX Prototyping in Figma & Ubuntu/Linux Administration
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>💬 Ask me about:</b><br>
-      React, Laravel, Tailwind CSS, Typography, or Turkish Culture!
-    </td>
-    <td width="50%">
-      <b>📫 How to reach me:</b><br>
-      <a href="mailto:sharifislam0505@gmail.com">sharifislam0505@gmail.com</a>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/userupload/27741179/file/original-231fcd3de036961c18e5c1f524525abc.gif" width="100%"/>
     </td>
   </tr>
 </table>
-
-<br clear="both">
 
 ---
 
 ### 🚀 Featured Projects
 
-* **Amar Recipe:** A full-stack recipe platform featuring an advanced discovery engine and a community-driven submission pipeline. *(React 19, Tailwind CSS 4, PHP 8.2, MySQL, PostgreSQL)*
-* **StudyNest:** A group study platform for UIU students featuring course resource sharing, real-time video rooms, and an AI file checker. *(React, Tailwind CSS, PHP, Python/Flask, Node.js)*
-* **UIU Supplements:** A real-time marketplace and community hub for UIU students including a part-time job portal and room rental services. *(PHP, MySQL, Vanilla JS, Bootstrap 5)*
-* **UIU Healthcare:** An integrated health portal connecting doctors and students with appointments and an AI symptom bot. *(PHP, MySQL, JavaScript, Bootstrap)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍲 <a href="https://amar-recipe.vercel.app">Amar Recipe</a></h4>
+      <p>Community recipe platform with multi-role auth, hierarchical admin panel, Bengali-native UI, content similarity detection, and CI/CD on Render + Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://amar-recipe.vercel.app">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/Amar_Recipe">📁 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://studynest-edu.vercel.app">StudyNest</a></h4>
+      <p>Real-time collaborative study platform with WebRTC video rooms, shared whiteboard, AI toolkit (NLTK), Pomodoro, gamification, and multi-cloud deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat&logo=webrtc&logoColor=white"/>
+      </p>
+      <a href="https://studynest-edu.vercel.app">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/StudyNest">📁 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔧 <a href="https://servicehub-platform.vercel.app">ServiceHub</a></h4>
+      <p>Enterprise service booking platform with Stripe PCI-compliant payments, secure webhooks, RBAC admin dashboard, and real-time KPI analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat&logo=Stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://servicehub-platform.vercel.app">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/service-booking-platform">📁 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📸 <a href="https://camsociety-backend.onrender.com/">CamSociety</a></h4>
+      <p>Photographer marketplace with multi-role auth, Laravel + Inertia.js SPA, atomic DB transactions, OTP verification, and Dockerized Nginx deployment.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://camsociety-backend.onrender.com/">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/CamSociety_Laraval">📁 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 <a href="https://uiu-healthcare.infinityfreeapp.com/">UIU Healthcare</a></h4>
+      <p>Integrated health portal with appointment scheduling, e-prescriptions, AI symptom bot, medicine search engine, and hospital locator.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      </p>
+      <a href="https://uiu-healthcare.infinityfreeapp.com/">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/UIU-Health-Care">📁 GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://uiusupplements.yzz.me/">UIU Supplements</a></h4>
+      <p>Full-stack campus marketplace with real-time bargaining, room rental, part-time job portal, lost &amp; found with verification, and live chat.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
+      </p>
+      <a href="https://uiusupplements.yzz.me/">🌐 Live</a> &nbsp;|&nbsp; <a href="https://github.com/Sharif2023/UIUSupplements">📁 GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -77,40 +139,37 @@ Beyond building software, I am deeply involved in academic research, currently i
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-**Frontend:** <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,bootstrap,html,css&theme=dark" />
+</p>
 
-**Backend & Database:** <br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,laravel,mysql,postgres,mongodb&theme=dark" />
+</p>
 
-**Tools & Others:** <br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-
----
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,docker,vercel,render,supabase,vscode,postman" />
+</p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharif2023&show_icons=true&theme=radical&v=1" alt="Sharif2023 Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharif2023&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif2023&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharif2023&show_icons=true&layout=compact&theme=radical&v=1" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Sharif2023&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sharif2023&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharif2023&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <br/>
