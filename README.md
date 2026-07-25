@@ -41,7 +41,6 @@ I craft modern, responsive web applications from concept to deployment. My exper
         <li>Integrated <b>85+ REST API endpoints</b> via Swagger with centralized Axios modules, JWT interceptors, and error handling</li>
         <li>Designed routing for <b>55+ routes</b> with RBAC — securing 19 protected routes across Student &amp; Instructor roles</li>
         <li>Optimized performance with <code>Promise.all</code> parallel fetching &amp; server-side filtering, eliminating memory crashes</li>
-        <li>Led <b>40+ refactoring commits</b>, consolidating duplicate layouts and removing hundreds of hardcoded legacy lines</li>
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
